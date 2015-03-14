@@ -1,0 +1,17 @@
+{
+  "name": "csburton/poker-bot",
+  "description": "Poker Bot",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Chris Burton",
+      "email": "csburton@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Poker\\": "src/Poker"
+    }
+  }
+}
